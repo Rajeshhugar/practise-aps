@@ -13,4 +13,3 @@ collection = database['Products']
 # Sample Data 
 d = {
     
-}
